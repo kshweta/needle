@@ -1,0 +1,61 @@
+@import url(https://fonts.googleapis.com/css?family=Anton);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+
+.index
+{
+	background-color: #333333;
+
+}
+section
+{
+	width: 100%;
+	padding: 10px;
+	position: absolute;
+}
+
+#one
+{
+	background-color: #06caca;
+	padding: 100px;
+
+}
+#two
+{
+	background-color: #e9a1b9;
+	padding: 100px;
+}
+#three
+{
+	background-color: #c2d53f;
+	padding: 100px;
+}
+#four
+{
+	background-color: #ffc300;
+	padding: 100px;
+}
+h1
+{	
+	font-size: 120px;
+	font-family: 'Anton', sans-serif;
+	color: #fff;
+}
+p
+{
+	font-size: 30px;
+	font-family: 'Shadows Into Light', cursive;
+}
+h3
+{
+	font-family: 'Shadows Into Light', cursive;
+}
+
+
+.form-control
+
+{
+color: #fff;
+font-family: 'Shadows Into Light', cursive;
+font-size: 16px;
+}
